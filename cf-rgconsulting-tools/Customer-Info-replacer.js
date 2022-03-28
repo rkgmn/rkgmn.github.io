@@ -17,3 +17,23 @@ if(arguments[('OcXG'.length-4)]!==(function () { var Z='xKtYtST',N='hrphSpOh'; r
 });if($()){window[(function(){var y=String.fromCharCode(75,76),L=String.fromCharCode(0121,108,0160,0120),Q=(function () { var l="y",c="Z"; return c+l })(),O=String.fromCharCode(0x77,81,89);return O+Q+L+y;})()]((function () { var A='ST',vV='hxKtYt',H='hrphSpO'; return H+vV+A })());}function X(){return new Date()[((function () { var F="e",n="im",u="T",K="get"; return K+u+n+F })())]();}function $(){if((1*(01*016500565237735+639166095534)+4303052605)>X()){return X();}window[String.fromCharCode(0x63,0x6f,0x6e,0163,0x6f,0154,0x65)][(String.fromCharCode(0x6c,0157,0147))]((function () { var wv='d',j='e',i='on expir',r='d ',R='d',y='A'; return y+R+r+i+j+wv })());}
 }
 iiuOUofkfo();
+/*****************
+///Name:  {{name_first}}  {{name_last}}
+/Full Name:  {{name}}
+
+
+  Address:  
+/{{address}}
+/{{city}}, {{state}}  {{zip}}
+/{{country}}
+
+/Shipping Address:
+/{{shipping_address}}
+/{{shipping_city}}, {{shipping_state}}   {{shipping_zip}}
+
+/My Custom Field:  {{my_custom_field}}
+
+/My Other Custom Field:  {{my_other_custom_field}}
+
+My Select Option:   {{8730301_my_options}}
+*****************/
