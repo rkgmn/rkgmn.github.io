@@ -2,7 +2,7 @@ var betaFeatures = false;
 var kScript_3 = true,
 ps3_kUserScript = "28152",
 ps3_cTabTitle = "We miss you";
-console.log('%cCF Power Scripts', 'color:#bd1b1e;font-size:40px;font-weight:bold;font-family:Aria;');console.log('%chttps://www.cfpowerscripts.com', 'color:#000;font-size:16px;font-weight:bold;font-family:Aria;');console.log('%cAdding Power Script: CF Tab Title', 'color:green;');
+console.log('%cCF rgconsulting Scripts', 'color:#bd1b1e;font-size:40px;font-weight:bold;font-family:Aria;');console.log('%chttps://www.rahulconsulting.com', 'color:#000;font-size:16px;font-weight:bold;font-family:Aria;');console.log('%cAdding rgconsulting Script: CF Tab Title', 'color:green;');
 var pageTitle = document.title;
 
 function ps3_onFocus() {
