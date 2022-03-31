@@ -1,17 +1,5 @@
 var betaFeatures = false;
-var cUID = "5374";
-var cPlan = "COMMUNITY";
-var cServerURL = "https://cfps2.boaa.it/";
-var cPageType = "Optin";
-var cFunnelId = "11881847";
-var cFunnelName = "Blog Funnel";
-var cStepId = "77076336";
-var cStepName = "1.Top 100 resources and tools to promote your accounting firm";
-var cPageId = "53486495";
-var cPageName = "Top 100 resources and tools to promote your accounting firm";
-var bAdmin = false;
-var bPreview = false;
-var cClientIP = "49.37.64.207";var kScript_3 = true,
+var kScript_3 = true,
 ps3_kUserScript = "28152",
 ps3_cTabTitle = "We miss you";
 console.log('%cCF Power Scripts', 'color:#bd1b1e;font-size:40px;font-weight:bold;font-family:Aria;');console.log('%chttps://www.cfpowerscripts.com', 'color:#000;font-size:16px;font-weight:bold;font-family:Aria;');console.log('%cAdding Power Script: CF Tab Title', 'color:green;');
