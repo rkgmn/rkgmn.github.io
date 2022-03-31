@@ -1,6 +1,6 @@
 ps58_kUserScript = "11110",
 ps58_cTabTitle = "ðŸ‘‹ Hey There...",
-ps58_cTabTitle2 =,
+ps58_cTabTitle2 ="come back",
 ps58_nInterval = "1";var kScript_18 = true,
 var ps58_pageTitle = document.title;
 var ps58_interval = 0;
