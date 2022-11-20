@@ -9,7 +9,7 @@
 * Version: 1.0
 **************************/
 function headlineRotator(_0xb665x2, _0xb665x3, _0xb665x4, _0xb665x5) {
-    var _0xb665x6 = $('[data-title*="rgconsulting-rotating-headline"] .elHeadline');
+    var _0xb665x6 = $('[data-title*="RGCONSULTING-rotating-headline"] .elHeadline');
     var _0xb665x7 = _0xb665x6['text']();
     var _0xb665x8 = _0xb665x7['split']('|');
     _0xb665x8['shift']();
