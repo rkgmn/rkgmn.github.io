@@ -5,7 +5,7 @@
 * this code - DO NOT REMOVE
 * Author: Rahul Gupta
 * Website: https://rahulconsulting.com
-* Add-on: CF Shining Headline
+* Add-on: RGC Shining Headline
 * Version: 1.0
 **************************/
 
